@@ -1,6 +1,6 @@
 {
   "name": "divisiblebybutnotdivisibleby",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple function to see if a number is divisible by another number(s) but also not divible by other number(s)",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/herohamp/divisiblebybutnotdivisibleby#readme",
   "dependencies": {
-    "divisible": "^0.1.0"
+    "divisible": "^0.1.0",
+    "is-number": "^7.0.0"
   }
 }
