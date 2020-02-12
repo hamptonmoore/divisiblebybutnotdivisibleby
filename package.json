@@ -1,0 +1,22 @@
+{
+  "name": "divisiblebybutnotdivisibleby",
+  "version": "1.0.0",
+  "description": "A simple function to see if a number is divisible by another number(s) but also not divible by other number(s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herohamp/divisiblebybutnotdivisibleby.git"
+  },
+  "author": "Hampton Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herohamp/divisiblebybutnotdivisibleby/issues"
+  },
+  "homepage": "https://github.com/herohamp/divisiblebybutnotdivisibleby#readme",
+  "dependencies": {
+    "divisible": "^0.1.0"
+  }
+}
